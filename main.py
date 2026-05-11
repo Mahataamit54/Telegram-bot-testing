@@ -42,10 +42,10 @@ GEMINI_API_KEY = os.getenv("AIzaSyBY_9ZG9-faahs2ZWqL_KMO-9IBZYbdXuI")
 # ============================================
 
 if not BOT_TOKEN:
-    raise ValueError("BOT_TOKEN missing")
+    raise ValueError("8013074037:AAGsBsDHB-mIJHfXnMX-qPSiAZjsH4Sg3IY")
 
 if not GEMINI_API_KEY:
-    raise ValueError("GEMINI_API_KEY missing")
+    raise ValueError("AIzaSyDScVPmnCRUOGGLG4F4rTfxImcjSNAgoF0")
 
 # ============================================
 # GEMINI SETUP
